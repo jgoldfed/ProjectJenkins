@@ -9,7 +9,7 @@ public class VariableComponentTest {
 
    @Test
    public void testPrintMessage() {
-      double message = 3556.62;
+      double message = 3951.8;
       assertEquals(message,messageUtil.printVariable(),0.01);
    }
 }
